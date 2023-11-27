@@ -5,6 +5,8 @@ Certainly! Below is a basic template for your README file for a portfolio projec
 # Portfolio Project
 
 Welcome to my portfolio project! This is a simple website created using HTML, CSS, and JavaScript to showcase my skills and projects.
+![Portfolio Preview](assets/)
+
 
 ## Project Structure
 
