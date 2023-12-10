@@ -57,6 +57,6 @@ Welcome to my portfolio project! This is a simple website created using HTML, CS
 6. **GitHub Pages (Optional):**
    If you want to host your portfolio on GitHub Pages, go to the repository settings, scroll down to the "GitHub Pages" section, and choose the branch to use for hosting (usually `main` or `master`).
 
-   Access your portfolio at: `https://main--resonant-entremet-98f386.netlify.app/`
+   Access your portfolio at: `https://nitin-html-js-project.netlify.app/`
 
 Feel free to add more sections or details based on your specific project and preferences. Good luck with your portfolio project! 🚀
